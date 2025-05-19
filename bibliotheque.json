@@ -1,0 +1,11 @@
+[
+    {
+        "ID": 1,
+        "Titre": "la france",
+        "Auteur": "Albert Camus",
+        "Année": 1940,
+        "Lu": true,
+        "Note": 9.0,
+        "Commentaire": "Très intéressant"
+    }
+]
